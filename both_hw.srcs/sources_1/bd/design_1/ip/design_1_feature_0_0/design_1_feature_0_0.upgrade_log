@@ -1,0 +1,100 @@
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (lin64) Build 1412921 Wed Nov 18 09:44:32 MST 2015
+| Date         : Thu Dec 28 16:16:29 2017
+| Host         : entc16 running 64-bit Ubuntu 16.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_feature_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_feature_0_0 (xilinx.com:hls:feature:1.0) from (Rev. 1712280033) to (Rev. 1712281615)
+
+
+
+
+
+
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (lin64) Build 1412921 Wed Nov 18 09:44:32 MST 2015
+| Date         : Thu Dec 28 00:34:35 2017
+| Host         : entc16 running 64-bit Ubuntu 16.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_feature_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_feature_0_0 (xilinx.com:hls:feature:1.0) from (Rev. 1712280010) to (Rev. 1712280033)
+
+
+
+
+
+
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (lin64) Build 1412921 Wed Nov 18 09:44:32 MST 2015
+| Date         : Thu Dec 28 00:12:35 2017
+| Host         : entc16 running 64-bit Ubuntu 16.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_feature_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_feature_0_0 (xilinx.com:hls:feature:1.0) from (Rev. 1712272358) to (Rev. 1712280010)
+
+
+
+
+
+
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (lin64) Build 1412921 Wed Nov 18 09:44:32 MST 2015
+| Date         : Wed Dec 27 23:58:46 2017
+| Host         : entc16 running 64-bit Ubuntu 16.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_feature_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_feature_0_0 (xilinx.com:hls:feature:1.0) from (Rev. 1712272342) to (Rev. 1712272358)
+
+
+
+
+
+
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (lin64) Build 1412921 Wed Nov 18 09:44:32 MST 2015
+| Date         : Wed Dec 27 23:42:19 2017
+| Host         : entc16 running 64-bit Ubuntu 16.04.3 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_feature_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_feature_0_0 (xilinx.com:hls:feature:1.0) from (Rev. 1712211829) to (Rev. 1712272342)
+

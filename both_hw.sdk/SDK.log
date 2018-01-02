@@ -1,0 +1,6 @@
+22:55:40 INFO  : Launching XSDB server: xsdb -n /home/zynq-fyp/Xilinx/SDK/2015.4/scripts/xsdb/xsdb/xsdb-server.tcl
+22:55:47 INFO  : XSDB server has started successfully.
+22:55:49 INFO  : Processing command line option -hwspec /home/zynq-fyp/Desktop/maxi_latest/both_hw/both_hw.sdk/design_1_wrapper.hdf.
+16:44:42 INFO  : Launching XSDB server: xsdb -n /home/zynq-fyp/Xilinx/SDK/2015.4/scripts/xsdb/xsdb/xsdb-server.tcl
+16:44:44 INFO  : XSDB server has started successfully.
+16:44:52 INFO  : Processing command line option -hwspec /home/zynq-fyp/Desktop/maxi_latest/both_hw_new/both_hw.sdk/design_1_wrapper.hdf.
